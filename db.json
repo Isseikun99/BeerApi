@@ -21,14 +21,5 @@
     }
   
   ],
-  "cocacola":[
-  {
-      "id" : 1,
-      "name" : "cOLA"
-    },
-    {
-      "id" : 2,
-      "name" : "cOLA"
-    }
-  ]
+  
 }
