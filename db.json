@@ -1,1 +1,24 @@
-
+{
+  "beers" :[
+    {
+      "id" : 1,
+      "name" : "Estrella"
+    },
+    
+    {
+      "id" : 2,
+      "name" : "Estrella"
+    },
+    
+    {
+      "id" : 3,
+      "name" : "Estrella"
+    },
+    
+    {
+      "id" : 4,
+      "name" : "Estrella"
+    }
+  
+  ]
+}
